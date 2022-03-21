@@ -46,7 +46,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 290.908706293106093, 93.0, 150.0, 33.0 ],
-					"text" : "routing 16 out to either bus or the chain"
+					"text" : "routing 32 out to either bus or the chain"
 				}
 
 			}
@@ -139,70 +139,77 @@
 ,
 		"dependency_cache" : [ 			{
 				"name" : "e4l.live.thisdevice.maxpat",
-				"bootpath" : "~/Desktop/E4L routing",
+				"bootpath" : "~/Downloads/MC-M4L-helper-main",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "e4l.bus.send.maxpat",
-				"bootpath" : "~/Desktop/E4L routing",
+				"bootpath" : "~/Downloads/MC-M4L-helper-main",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "e4l.live.routing.maxpat",
-				"bootpath" : "~/Desktop/E4L routing",
+				"bootpath" : "~/Downloads/MC-M4L-helper-main",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "e4l.dict.list.maxpat",
-				"bootpath" : "~/Desktop/E4L routing",
+				"bootpath" : "~/Downloads/MC-M4L-helper-main",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "e4l.live.device_track.maxpat",
-				"bootpath" : "~/Desktop/E4L routing",
+				"bootpath" : "~/Downloads/MC-M4L-helper-main",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "e4l.live.object.maxpat",
-				"bootpath" : "~/Desktop/E4L routing",
+				"bootpath" : "~/Downloads/MC-M4L-helper-main",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "e4l.live.once.maxpat",
-				"bootpath" : "~/Desktop/E4L routing",
+				"bootpath" : "~/Downloads/MC-M4L-helper-main",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "e4l.bus.chain_index.maxpat",
-				"bootpath" : "~/Desktop/E4L routing",
+				"bootpath" : "~/Downloads/MC-M4L-helper-main",
+				"patcherrelativepath" : ".",
+				"type" : "JSON",
+				"implicit" : 1
+			}
+, 			{
+				"name" : "e4l.live.count_aux_inputs.maxpat",
+				"bootpath" : "~/Downloads/MC-M4L-helper-main",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "e4l.bus.selector.maxpat",
-				"bootpath" : "~/Desktop/E4L routing",
+				"bootpath" : "~/Downloads/MC-M4L-helper-main",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "e4l-routing.png",
-				"bootpath" : "~/Desktop/E4L routing",
+				"bootpath" : "~/Downloads/MC-M4L-helper-main",
 				"patcherrelativepath" : ".",
 				"type" : "PNG",
 				"implicit" : 1
